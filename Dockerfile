@@ -1,1 +1,1 @@
-FROM rust:latest
+FROM rust:latest@sha256:2c454db58842de39b18057df0617d24eb4f94f77d99ea8dfc0788387d0c9dc81
